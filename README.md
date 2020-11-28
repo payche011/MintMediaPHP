@@ -1,4 +1,4 @@
-# MintMediaPHP
+# MintMedia PHP
 
 How to run
 
